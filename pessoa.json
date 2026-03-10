@@ -1,0 +1,73 @@
+{
+  "david": {
+    "nome": "David Balves",
+    "foto": "https://video.xx.fbcdn.net/v/t69.46293-2/648143788_1953666045250467_4223715581981480975_n.?_nc_cat=109&ccb=1-7&_nc_sid=942482&_nc_ohc=As1-PL32cGgQ7kNvwH1vVkJ&_nc_oc=AdnhgWqUqV9L1F0gobfHpgNGlVozX-DDTL9XfrHIxSe0BTX-VOvp7vcTyHS0Z8QK74m8nckZ_mc16bNpGv0UaED4&_nc_zt=28&_nc_ht=video.xx&_nc_gid=taNbzyw6gN-cxtGZf-9Xug&_nc_ss=8&oh=03_Q7cD4wEhc6Omhr1Yv0Kdo8lIxvPrn-HVI4eqT7FYZA2TkQbFPw&oe=69B28D06",
+    "nascimento": "Julho 2005",
+    "email": "davisbrito566@gmail.com",
+    "telefone": "(11) 96207-7101",
+    "linkedin": "https://www.linkedin.com/in/david-brito-b5b291312/",
+    "github": "https://github.com/davisalves38-lab",
+    "conhecimento": [
+      "Java",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "MySQL"
+    ],
+    "experiencia": [
+      {
+        "cargo": "Repositor Ifood",
+        "empresa": "Peg Pese Hortifruti",
+        "descricao": "Separação de pedidos e operação do sistema ecommerce",
+        "inicio": "2023",
+        "fim": "Atual"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ensino Médio",
+        "instituicao": "E.E Beatriz Lopes",
+        "inicio": "2021",
+        "fim": "2023"
+      },
+
+      {
+        "curso": "ADS - Análise e Desenvolvimento de Sistemas",
+        "instituicao": "Centro Universitário Senac - Santo Amaro",
+        "inicio": "2025",
+        "fim": "Cursando..."
+      }
+    ]
+  },
+  "ciclano": {
+    "nome": "João Souza",
+    "foto": "https://tse4.mm.bing.net/th/id/OIP.CrCypN4c_UXzOh1FYOk32AAAAA?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "nascimento": "Março 2002",
+    "email": "joao@email.com",
+    "telefone": "11 98888-0000",
+    "linkedin": "https://linkedin.com",
+    "github": "https://github.com",
+    "conhecimento": [
+      "Angular",
+      "Node.js",
+      "MySQL"
+    ],
+    "experiencia": [
+      {
+        "cargo": "Estagiário",
+        "empresa": "Empresa X",
+        "descricao": "Desenvolvimento web",
+        "inicio": "2022",
+        "fim": "2023"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "Universidade X",
+        "inicio": "2020",
+        "fim": "2024"
+      }
+    ]
+  }
+}

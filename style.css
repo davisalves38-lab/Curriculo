@@ -1,0 +1,54 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: #eee;
+    margin: 20px;
+}
+
+.top-buttons{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+button{
+    padding: 10px 30px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+h1{
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    gap: 20px;
+}
+
+.left{
+    width: 30%;
+    background: white;
+    padding: 15px;
+}
+.right{
+    width: 70%;
+    background: white;
+    padding: 15px;
+}
+
+.foto{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    background: #ccc;
+}
+
+ul{
+    padding-left: 20px;
+}
+
+footer{
+    margin-top: 20px;
+    text-align: center;
+    font-weight: bold;
+}
