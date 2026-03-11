@@ -114,8 +114,8 @@ Este projeto foi desenvolvido para praticar:
 Estudante de **Análise e Desenvolvimento de Sistemas**
 Interesse em **Desenvolvimento Backend**
 
-LinkedIn: *(adicione aqui)*
-GitHub: *(adicione aqui)*
+LinkedIn: *(David Brito)*
+GitHub: *(David-Java)*
 
 ---
 
